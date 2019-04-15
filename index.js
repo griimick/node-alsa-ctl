@@ -1,6 +1,6 @@
 /*!
  * node-alsa-ctrl
- * Copyright(c) 20019-2020 Soumik Pradhan
+ * Copyright(c) 20019 Soumik Pradhan
  * MIT Licensed
  */
 
