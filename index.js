@@ -1,7 +1,7 @@
 /*!
- * node-alsa-ctrl
- * Copyright(c) 20019 Soumik Pradhan
+ * node-alsa-ctl
+ * Copyright(c) 2019 Soumik Pradhan
  * MIT Licensed
  */
 
-module.exports = require ('./lib/node-alsa-ctrl');
+module.exports = require ('./lib/node-alsa-ctl');

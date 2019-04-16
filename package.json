@@ -1,5 +1,5 @@
 {
-	"name": "node-alsa-ctrl",
+	"name": "node-alsa-ctl",
 	"version": "0.0.1",
 	"description": "ALSA Sound Device Control from Node",
 	"main": "index.js",
@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/griimick/node-alsa-ctrl.git"
+		"url": "git+https://github.com/griimick/node-alsa-ctl.git"
 	},
 	"keywords": [
 		"node",
@@ -25,7 +25,7 @@
 	"author": "Soumik Pradhan",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/griimick/node-alsa-ctrl/issues"
+		"url": "https://github.com/griimick/node-alsa-ctl/issues"
 	},
-	"homepage": "https://github.com/griimick/node-alsa-ctrl#readme"
+	"homepage": "https://github.com/griimick/node-alsa-ctl#readme"
 }
