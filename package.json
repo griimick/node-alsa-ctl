@@ -1,6 +1,6 @@
 {
 	"name": "node-alsa-ctl",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "ALSA Sound Device Control from Node",
 	"main": "index.js",
 	"directories": {
